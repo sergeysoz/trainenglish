@@ -1,0 +1,19 @@
+{
+  "name": "trainenglish",
+  "version": "1.0.0",
+  "description": "free dictionary",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergeysoz/trainenglish.git"
+  },
+  "author": "Sergey Sozontov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sergeysoz/trainenglish/issues"
+  },
+  "homepage": "https://github.com/sergeysoz/trainenglish#readme"
+}
